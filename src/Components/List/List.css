@@ -1,0 +1,16 @@
+tr:nth-child(even) {
+    background-color: aliceblue;
+}
+
+tr:hover {
+    background-color: aqua;
+}
+
+.container {
+    margin: 3rem auto;
+    width: 70rem;
+    max-width: 65%;
+    border-radius: 10px;
+    box-shadow: 0 5px 13px rgb(32, 41, 70, 0.7);
+    padding: 1rem;
+}
